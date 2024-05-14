@@ -1,0 +1,14 @@
+---
+namespace: damex
+name: kubernetes
+version: 0.0.1
+readme: README.md
+authors:
+  - Roman Kuzmitskii <ansible@damex.org>
+description: kubernetes collection
+license_file: LICENSE
+tags:
+  - kubernetes
+  - linux
+repository: https://github.com/damex/ansible-collections-kubernetes
+issues: https://github.com/damex/ansible-collections-kubernetes/issues
